@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Paarth Srivastava</h1>
+        <h1>Shivam Aggarwal</h1>
         <nav>
           <a href="#about">About</a>
           <a href="#projects">Projects</a>
@@ -39,8 +39,8 @@ function App() {
         </section>
         <section id="contact">
           <h2>Contact</h2>
-          <p>Email: paarthsrivastava14105@gmail.com</p>
-          <p>LinkedIn: <a href="" target="_blank">https://www.linkedin.com/in/paarth-srivastava-a91977360/</a></p>
+          <p>Email: shivamaggarwal3106@gmail.com</p>
+          <p>LinkedIn: <a href="" target="_blank">https://www.linkedin.com/in/shivam-aggarwal-a35869290/</a></p>
         </section>
       </main>
     </div>
